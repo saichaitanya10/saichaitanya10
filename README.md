@@ -2,14 +2,6 @@
 ![Banner](https://github.com/saichaitanya10/saichaitanya10/blob/main/github%20banner.png?raw=true)
 
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saichaitanya10&label=Profile%20views&color=0e75b6&style=flat" alt="saichaitanya10" /> </p>
-
-- 🌱 I’m currently learning **javascript**
-
-- 📫 How to reach me **saichaitanyakotla@gmail.com**
-  
 <!-- Game --> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
