@@ -15,6 +15,6 @@
 
 <!-- GitHub Stats and Streaks -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saichaitanya10&show_icons=true&locale=en" alt="GitHub Stats" style="margin-right: 20px;" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saichaitanya10&show_icons=true&locale=en" alt="GitHub Stats" style="margin-right: 20px;" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saichaitanya10" alt="GitHub Streaks" style="margin-left: 20px;" width="48%" />
 </p>
