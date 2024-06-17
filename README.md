@@ -1,6 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Sai chaitanya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+![Banner](https://github.com/saichaitanya10/saichaitanya10/blob/main/github%20banner.png?raw=true)
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saichaitanya10&label=Profile%20views&color=0e75b6&style=flat" alt="saichaitanya10" /> </p>
 
